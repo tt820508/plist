@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://qa.ekeban.com/ipa/EKESell1.0.5.ipa</string>
+					<string>http://www.ekeban.com/ipa/EKESellQA1.1.0.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,13 +19,13 @@
 				<key>bundle-identifier</key>
 				<string>com.yiguo.qiakrqa</string>
 				<key>bundle-version</key>
-				<string>1.0.5</string>
+				<string>1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>洽客QA</string>
+				<string>洽客QA1.1.0</string>
 				<key>title</key>
-				<string>洽客QA版</string>
+				<string>洽客QA1.1.0版</string>
 			</dict>
 		</dict>
 	</array>

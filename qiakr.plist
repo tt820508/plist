@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.ekeban.com/ipa/EKESell1.1.1.ipa</string>
+					<string>http://www.ekeban.com/ipa/EKESell1.1.2.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.yiguo.qiakr</string>
 				<key>bundle-version</key>
-				<string>1.1.1</string>
+				<string>1.1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
